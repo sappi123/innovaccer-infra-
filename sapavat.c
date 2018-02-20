@@ -235,7 +235,7 @@ int main(void)
  	printf("---------------------------------------------------------------------------------------------------\n");
  	chdir("/home/");
  	load_top_ten(".");   
-    display_top_ten();
+    	display_top_ten();
     return 0;
 
 }	
