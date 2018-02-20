@@ -22,8 +22,8 @@
 #include <unistd.h>
 
 // source and destination
-char src[] = "test";
-char dest[] = "dest"; 
+char src[] = "Desktop";
+char dest[] = "Documents"; 
 
 typedef struct file_data
 {
